@@ -1,6 +1,6 @@
 [submodule "SMP/libass"]
 	path = SMP/libass
-	url = https://github.com/ShiftMediaProject/libass.git
+	url = https://github.com/amanosatosi/libassmod.git
 [submodule "SMP/libiconv"]
 	path = SMP/libiconv
 	url = https://github.com/ShiftMediaProject/libiconv.git
